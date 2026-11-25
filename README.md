@@ -31,6 +31,9 @@ Future rounds get their own folder (`playtest-2/`, and so on).
 Playtests run in the browser on an invite-only itch.io page. If you've been invited, you'll have the
 link and the password. If you'd like to take part in a future round, open an issue saying so.
 
+## A list of those who contributed to playtesting! This is not the full list, nor are they listed in any particular order!
+1.) SelfAboutMad
+
 ## Reporting something
 
 The quickest way during a playtest is the **Feedback** button in the bottom-left corner of the game,
