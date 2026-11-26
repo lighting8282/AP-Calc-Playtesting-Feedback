@@ -33,6 +33,7 @@ link and the password. If you'd like to take part in a future round, open an iss
 
 ## A list of those who contributed to playtesting! This is not the full list, nor are they listed in any particular order!
 1.) SelfAboutMad
+2.) Gott
 
 ## Reporting something
 
